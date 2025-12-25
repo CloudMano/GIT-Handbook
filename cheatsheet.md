@@ -2,7 +2,7 @@
 
 **## Identity Setup**
 ```bash
-git config --global user.name "Manohar Paruchuru"
+git config --global user.name "username"
 git config --global user.email "your.email@example.com"
 ```
 Sets your identity for commits across all repositories.
